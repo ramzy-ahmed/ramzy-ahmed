@@ -41,9 +41,11 @@ A mobile app that calculates working hours, overtime, and salary based on real-t
 
 ---
 
-## GitHub status :
+## 🔗 GitHub status :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramzy-ahmed&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzy-ahmed&layout=compact&theme=radical)
+
+---
 
 ### 🔗 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/ramzy-ahmed)
