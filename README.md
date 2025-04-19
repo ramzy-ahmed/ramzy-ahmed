@@ -51,5 +51,8 @@ A mobile app that calculates working hours, overtime, and salary based on real-t
 - [LinkedIn](https://www.linkedin.com/in/ramzy-ahmed)
 
 ---
+### 🔗 My website:
+- [LinkedIn](https://ramzy-ahmed.github.io/)
+---
 
 <p align="center">Thanks for stopping by!</p>
