@@ -37,12 +37,12 @@ A mobile app that calculates working hours, overtime, and salary based on real-t
 - Handles shifts across midnight  
 - Fully customizable work settings (basic salary, working hours, overtime rate)
 
-> [View Project Repo](https://github.com/ramzy-ahmed/Salary-Tracker-App) *(غير اللينك لو مختلف)*
+> [View Project Repo](https://github.com/ramzy-ahmed/Salary-Tracker-App)
 
 ---
 
 ### 🔗 Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/ramzy-ahmed) *(ضيف لينك لينكد إن لو مختلف)*
+- [LinkedIn](https://www.linkedin.com/in/ramzy-ahmed)
 
 ---
 
