@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:172554,100:0891B2&text=Ramzy%20Ahmed&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Mobile%20%26%20Web%20Application%20Developer&descAlignY=58&descSize=18" alt="Ramzy Ahmed — Mobile and Web Application Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:0891B2&height=230&section=header&text=Ramzy%20Ahmed&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Mobile%20%26amp%3B%20Web%20Application%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Ramzy Ahmed — Mobile and Web Application Developer" width="100%" />
 
   <a href="https://ramzy-ahmed.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -11,6 +11,10 @@
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-64748B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://wa.me/201021891394">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+       alt="WhatsApp" />
+</a>
 
   <br />
 
@@ -26,7 +30,7 @@ I'm a **Mobile & Web Application Developer** focused on building useful, reliabl
 
 - 📱 **Android:** Kotlin, Java, Android SDK, Jetpack Compose, Android Jetpack
 - 🐦 **Cross-platform:** Flutter and Dart
-- 🌐 **Web:** React, JavaScript, Vite, HTML, and CSS
+- 🌐 **Web:** React, JavaScript, TypeScript, Tailwind CSS, Vite, HTML, CSS.
 - 🧱 **Architecture:** MVVM, MVI, MVC, Clean Architecture, and OOP
 - 🔌 **Backend & data:** REST APIs, Firebase, Supabase, Room, and SQLite
 - 🛠️ **Workflow:** Git, GitHub, Android Studio, VS Code, and Postman
@@ -46,7 +50,8 @@ I'm a **Mobile & Web Application Developer** focused on building useful, reliabl
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,gradle" alt="Kotlin, Java, Android Studio, Flutter, Dart, Gradle" />
 
 ### Web Development
-<img src="https://skillicons.dev/icons?i=react,js,html,css,vite" alt="React, JavaScript, HTML, CSS, Vite" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite"
+     alt="React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Vite" />
 
 ### Backend, Databases & Tools
 <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite,git,github,postman,vscode" alt="Firebase, Supabase, SQLite, Git, GitHub, Postman, VS Code" />
