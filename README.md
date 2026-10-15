@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ramzy-ahmed">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:ramzyahmeddev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-64748B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wa.me/201021891394">
@@ -191,8 +191,10 @@ Visit my portfolio to explore my work, skills, and services:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramzy-ahmed&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramzy-ahmed&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub contribution activity graph" width="100%" />
 </div>
+
+
 
 ---
 
@@ -217,9 +219,13 @@ I'm interested in opportunities involving Android, Flutter, and web application 
   <a href="https://www.linkedin.com/in/ramzy-ahmed">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:ramzyahmeddev@gmail.com">
     <img src="https://img.shields.io/badge/Email-64748B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://wa.me/201021891394">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+       alt="WhatsApp" />
+</a>
 
 </div>
 
